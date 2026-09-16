@@ -1,0 +1,21 @@
+src/main/java/com/homecrew/servicediscovery/ServicediscoveryApplication.java
+  s_3d9bbfd7b8519e::t_920a64d9347ceb 11-13
+src/test/java/com/homecrew/servicediscovery/ServicediscoveryApplicationTests.java
+  s_3d9bbfd7b8519e::t_e0188f2b38bd2e 9-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "4b667ae0b323068866ca24f12ee4ccb79333e7e2",
+  "prompts": {},
+  "sessions": {
+    "s_3d9bbfd7b8519e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56713074-cac4-4411-b930-44405690d84c",
+        "model": "anthropic.claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
