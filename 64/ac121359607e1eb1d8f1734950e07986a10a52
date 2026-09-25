@@ -1,0 +1,16 @@
+.gitattributes
+  h_bfc075b6e02f74 16-18
+pom.xml
+  h_bfc075b6e02f74 165-170,178,385-386,388
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "64ac121359607e1eb1d8f1734950e07986a10a52",
+  "prompts": {},
+  "humans": {
+    "h_bfc075b6e02f74": {
+      "author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
